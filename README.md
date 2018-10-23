@@ -9,7 +9,7 @@
 ```
 
 ```
-* composer update
+* composer install
 ```
 
 ```
